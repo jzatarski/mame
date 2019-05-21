@@ -2975,6 +2975,9 @@ beathead                        // (proto)          (c) 1993
 bebox                           // BeBox Dual603-66
 bebox2                          // BeBox Dual603-133
 
+@source:beckmandu600.cpp
+beckmandu600
+
 @source:beehive.cpp
 beehive                         //
 
